@@ -123,11 +123,11 @@
 		
 		if ($IS_REAL_PAYPAL)
 		{
-			$mail_paypal="eduardopena@mundo-r.com";
+			$mail_paypal="EMAI@mail.com";
 		}
 		else
 		{
-			$mail_paypal="seller_1314025630_biz@donotcompare.com";
+			$mail_paypal="email@mail.comm";
 		}
 		
 	
