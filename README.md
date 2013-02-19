@@ -1,3 +1,6 @@
+Buy_Bitcoin_With_Paypal
+=======================
+
 This is a framework in PHP and MySQL to sell Bitcoin using Paypal.
 
 It generates a Paypal button on the spot with the current MtGox price. In order to minimize chargebacks, it asks for a mobile phone number and sends an authentication PIN.
